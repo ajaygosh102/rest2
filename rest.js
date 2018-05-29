@@ -1,4 +1,4 @@
-var http = require('restify');
+var http = require('http');
 
 port = process.env.PORT || process.argv[2] || 8080;
 
